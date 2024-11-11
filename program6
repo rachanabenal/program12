@@ -3,3 +3,8 @@ second commit
 third commit
 fourth commit
 fifth commit
+<<<<<<< HEAD
+=======
+reverting
+hi hello
+>>>>>>> 77f051bd2389ee1ed3b32b705ef7f111aa41a7c1
